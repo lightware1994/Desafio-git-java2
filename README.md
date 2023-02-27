@@ -18,7 +18,7 @@ Clone o projeto com o comando abaixo:
 
 ```bash
 # Clone o repósitorio
-	>https://github.com/lightware1994/sa01-romarioaraujo-aplicacao2.git
+	>git clone https://github.com/lightware1994/sa01-romarioaraujo-aplicacao2.git
 		#Entre no diretório.
 	> use o eclipse de inicio para criar um arquivo em java. 
 		#Criando arquivo java.
