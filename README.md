@@ -1,12 +1,16 @@
-
 # Projeto EMBRAER
+
 Repositório criado com o objetivo de associação de classes
 
-##Descrição
+## Descrição:
+
 "Calcula tempo de lançamento do 1º avião EMBRAER..."
+
 ---
-## Tecnlogias utilizadas
+## Tecnologias utilizadas
+
 Esse projeto foi criado utilizando as tecnologias:
+
 ### Back-End
 - [JAVA](https://jdk.java.net)
 
