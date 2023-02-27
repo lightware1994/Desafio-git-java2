@@ -11,10 +11,10 @@ Repositório criado com o objetivo de associação de classes
 
 Esse projeto foi criado utilizando as tecnologias:
 
-### Back-End
+### Back-End:
 - [JAVA](https://jdk.java.net)
 
-## Editor
+## Editor:
 - [Eclipse](https://www.eclipse.org/downloads/)
 ---
 ## Como rodar o projeto
